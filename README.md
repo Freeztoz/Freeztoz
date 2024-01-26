@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Freeztoz, neuwto the platofrm but I look forward to use it to enhence my projects
+- 👋 Hi, I’m @Freeztoz, new to the platofrm. I look forward to use it to enhence my projects
 
 <!---
 Freeztoz/Freeztoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
